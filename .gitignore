@@ -1,0 +1,5 @@
+work/
+data/
+results/train_items.json
+__pycache__/
+.DS_Store
